@@ -1,0 +1,19 @@
+body {
+    background-image: url(../../img/imgfundo/7.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: rebeccapurple;
+    }
+.container{
+    text-align: center;
+    width: auto;
+   
+}
+
+.Titulo{
+    margin-bottom: 15%;
+    margin-top: 15%;
+}
+
